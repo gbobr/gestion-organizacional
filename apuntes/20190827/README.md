@@ -22,10 +22,12 @@ Def: Aplicación de conocimientos, habilidades, herramientas y técnicas en la a
 
 Objetivo: Proveer un ordenado y objetivo conjunto de procesos para obtener y manejar proyectos rentables.
 
+```
    $
   / \
  /   \
 T_____Q
+```
 
 Utilizar experiencias exitosos para mejorar estos procesos: Estándares, técnicas, checklists o procesos puntuales.
 
@@ -49,4 +51,15 @@ Herramientas de gestión de proyecto
 #### Acta de constitución de proyecto
 #### Enunciado del alcance
 *Propósito, entregables, objetivos, supuestos y limitaciones*
+
+#### Convenios base
+*Requerimientos técnicos y contractuales* 
+#### Enfoque técnico
+#### WBS
+Work breakdown structure
+#### OBS
+Organization breakdown structure
+#### Redes, estimaciones de costo y cronogramas
+
+
 
