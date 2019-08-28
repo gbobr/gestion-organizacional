@@ -113,7 +113,7 @@ Compuesto por los siguientes *Grupos de procesos:*
 Nota: Anteriormente los grupos de procesos se llamaban etapas, pero se cambió para que encaje en agile (en metodologias ágiles, estos procesos se dan iterativamente, por eso ya no se consideran etapas)
 
 ### Gráfico de grupos de trabajo
-!(Gráfico)[img1.png]
+![Gráfico](img1.png)
 
 Mayor participacion del PM en iniciacion, planificacion, monitoreo y control y cierre
 
