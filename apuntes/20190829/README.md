@@ -27,6 +27,7 @@ Matriz SECI
 | Interiorización | Socialización   |
 |-----------------|-----------------|
 | Conocimiento tacito | Conocimiento tacito |
+
 | Combinación     | Exteriorización |
 |-----------------|-----------------|
 | Concepto explicito -> Conocimiento explicito | Conocimiento tácito -> Concepto explicito |
