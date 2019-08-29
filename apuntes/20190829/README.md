@@ -22,12 +22,12 @@ Pablo Peña Vendrell define gestion de conocimiento como:
 * Monitorear y evaluar los logros
 * Reducir tiempos y costos
 
-##Matriz SECI
+## Matriz SECI
  
 | **Interiorización** | **Socialización**   |
-| Conocimiento tacito | Conocimiento tacito |
+| `Conocimiento tacito` | `Conocimiento tacito` |
 | **Combinación**     | **Exteriorización** |
-| Concepto explicito -> Conocimiento explicito | Conocimiento tácito -> Concepto explicito |
+| `Concepto explicito -> Conocimiento explicito` | `Conocimiento tácito -> Concepto explicito` |
 
 
 ## Capital intelectual
@@ -81,3 +81,29 @@ Herramienta Cuantitativa para medición de causas y efectos
 Herramienta cualitativa
 
 ![Diagrama interrelaciones](interr3.gif)
+
+### Campo de fuerza
+Cualitativa
+![Campo de fuerza](inpuls2.gif)
+
+## Benchmarking
+Proceso continuo de medir productos, servicios y prácticas contra los competidores más duros o aquellas compañías reconocidas como lideres en la industria.
+
+* Estrategico competitivo
+* Funcional
+
+### Características
+
+* Proactivo: Anticipar oportunidades y problemas. Debe conducir al cambio.
+* Competitivo: desde adentro hacia afuera. Creando ventajas competitivas.
+* Sistemas de medición adecuados
+
+### Metodologías de medición
+1. Identificar clientes
+2. Traducir requerimientos
+3. Determinar factores clave del servicio
+4. 
+5.
+6. Determinar sistema de medición sencillo 
+7. Enfatizar para que la forma de medir y analiza
+8.
