@@ -22,15 +22,23 @@ Pablo Peña Vendrell define gestion de conocimiento como:
 * Monitorear y evaluar los logros
 * Reducir tiempos y costos
 
-Matriz SECI
+##Matriz SECI
  
-| Interiorización | Socialización   |
-|-----------------|-----------------|
+| **Interiorización** | **Socialización**   |
 | Conocimiento tacito | Conocimiento tacito |
-
-| Combinación     | Exteriorización |
+| **Combinación**     | **Exteriorización** |
 |-----------------|-----------------|
 | Concepto explicito -> Conocimiento explicito | Conocimiento tácito -> Concepto explicito |
 
 
+## Capital intelectual
 
+`Cap intelectual = Cap humano + Cap Estructural + Cap Relacional + Cap Social`
+
+### Características
+* Propio de una organización
+* Intransferible
+
+## Matrices de gestión
+### Matriz ADL
+![Matriz ADL](matriz_adl.jpg)
